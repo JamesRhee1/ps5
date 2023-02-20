@@ -1,2 +1,3 @@
-# ps5
-James Lee PS5
+# PS5 rmarkdown and plotting
+
+Problem set 5 work
