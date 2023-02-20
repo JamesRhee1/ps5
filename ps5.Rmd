@@ -10,7 +10,7 @@ output: html_document
 ## Load an check data
 
 _1. Load tidyverse_
-```{r, message=FALSE}
+```{r, warning=FALSE}
 library(tidyverse)
 ```
 _2. Load data. How many rows/columns do we have?_
